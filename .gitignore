@@ -5,7 +5,6 @@ temp
 .nyc_output
 *.tsbuildinfo
 
-dist
 artifacts
 artifacts-ovm
 cache
