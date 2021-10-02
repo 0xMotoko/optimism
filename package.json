@@ -43,7 +43,6 @@
     "lint": "yarn lerna run lint",
     "lint:check": "yarn lerna run lint:check",
     "lint:fix": "yarn lerna run lint:fix",
-    "postinstall": "patch-package",
     "ready": "yarn lint && yarn test",
     "prepare": "husky install",
     "release": "yarn build && yarn changeset publish"
